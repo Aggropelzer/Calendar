@@ -1,0 +1,6 @@
+H:\PMC\Calendar\Calendar\bin\Debug\Calendar.exe.config
+H:\PMC\Calendar\Calendar\bin\Debug\Calendar.exe
+H:\PMC\Calendar\Calendar\bin\Debug\Calendar.pdb
+H:\PMC\Calendar\Calendar\obj\Debug\Calendar.csprojResolveAssemblyReference.cache
+H:\PMC\Calendar\Calendar\obj\Debug\Calendar.exe
+H:\PMC\Calendar\Calendar\obj\Debug\Calendar.pdb
